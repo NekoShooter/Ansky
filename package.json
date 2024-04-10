@@ -1,0 +1,18 @@
+{
+  "name": "ansky",
+  "version": "0.0.1",
+  "description": "Ansky que permite interpretar el codigo css en js",
+  "main": "Ansky.js",
+  "type": "module",
+  "keywords": ["css","Front-End","stylesheet","style","dom"],
+  "author": "Neko Shooter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NekoShooter/Ansky"
+  },
+  "bugs": {
+    "url": "https://github.com/NekoShooter/Ansky/issues"
+  },
+  "homepage": "https://github.com/NekoShooter/Ansky"
+}
